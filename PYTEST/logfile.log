@@ -1,0 +1,8 @@
+2024-02-15 12:32:08,101 :INFO : test_fixtureDemo :i will execute steps in fixtureDemo method
+2024-02-15 12:37:20,989 :INFO : test_fixtureDemo :i will execute steps in fixtureDemo method
+2024-02-15 12:37:20,990 :DEBUG : test_fixtureDemo :I am debug
+2024-02-15 12:38:26,505 :INFO : test_fixtureDemo :i will execute steps in fixtureDemo method
+2024-02-15 12:38:26,505 :DEBUG : test_fixtureDemo :I am debug
+2024-02-15 12:38:26,516 :INFO : test_fixtureDemo2 :i will execute steps in fixtureDemo2 method
+2024-02-15 12:38:55,517 :INFO : test_fixtureDemo :i will execute steps in fixtureDemo method
+2024-02-15 12:38:55,517 :DEBUG : test_fixtureDemo :I am debug

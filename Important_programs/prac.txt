@@ -1,0 +1,7 @@
+apple
+mango
+banana
+guava
+litchi
+papaya
+pomegranate

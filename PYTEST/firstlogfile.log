@@ -1,0 +1,9 @@
+I am warning
+An error
+I am critical
+2024-02-15 11:33:28,580:WARNING:logger_prac:I am warning
+2024-02-15 11:33:28,581:ERROR:logger_prac:An error
+2024-02-15 11:33:28,581:CRITICAL:logger_prac:I am critical
+2024-02-15 12:54:28,901:WARNING:PYTEST.logger_prac:I am warning
+2024-02-15 12:54:28,901:ERROR:PYTEST.logger_prac:An error
+2024-02-15 12:54:28,901:CRITICAL:PYTEST.logger_prac:I am critical
